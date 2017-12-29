@@ -5,6 +5,8 @@ public class Test {
 		System.out.println("¸Þ·Õ");
 		System.out.println("»Ð");
 		System.out.println("¾ÆÁ÷!");
+		String ax;
+		int but;
 	}
 
 }
