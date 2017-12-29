@@ -2,12 +2,11 @@
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.println("ë©”ë¡±");
-		System.out.println("ë¿…");
-		System.out.println("ì•„ì§!");
+		System.out.println("¸Ş·Õ");
+		System.out.println("»Ğ");
+		System.out.println("¾ÆÁ÷!");
 		String ax;
 		int but;
-		String fals;
 	}
 
 }
